@@ -1,5 +1,4 @@
 Cloud Provider Comparison
-
 Infrastructure Component	AWS	Microsoft Azure	Google Cloud Platform
 Compute	EC2 (virtual machines), Lambda (serverless), Elastic Beanstalk, ECS (containers)	Virtual Machines, Azure Functions (serverless), App Service, Azure Kubernetes Service	Compute Engine (virtual machines), Cloud Functions (serverless), App Engine, Google Kubernetes Engine (GKE)
 Storage	S3 (object storage), EBS (block storage), EFS (file storage)	Blob Storage (object storage), Disk Storage (block), Azure Files (file storage)	Cloud Storage (object storage), Persistent Disk (block), Filestore (file storage)
