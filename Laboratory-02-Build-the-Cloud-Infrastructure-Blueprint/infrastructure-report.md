@@ -1,41 +1,27 @@
-Step 2.4 — Put this temporary content
-
-For now, paste:
-
 Infrastructure Report
 
 Operating System
 
-To be determined from the KillerCoda Linux environment.
+Ubuntu 24.04.4 LTS (Noble Numbat)
 
 Kernel Version
-
-To be determined.
+6.8.0-136-generic
 
 CPU Model
-
-To be determined.
+Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz   2.40 GHz
 
 Number of CPU Cores
-
-To be determined.
+1
 
 Total RAM
-
-To be determined.
+18.00 GB 7.88 GB
 
 Disk Capacity
-
-To be determined.
+19G total on main partition (/dev/vda1), 5.4G used, 13G available
 
 Mounted File Systems
-
-To be determined.
-
-Hostname
-
-To be determined.
-
-IP Address
-
-To be determined.
+/ (root, /dev/vda1)
+/run (tmpfs)
+/dev/shm (tmpfs)
+/run/lock (tmpfs)
+/boot (/dev/vda16)
