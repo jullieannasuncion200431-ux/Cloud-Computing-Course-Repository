@@ -18,7 +18,7 @@ Number of CPU Cores
 
 Total RAM
 
-18.00 GB 7.88 GB
+1.9 GiB
 
 Disk Capacity
 
