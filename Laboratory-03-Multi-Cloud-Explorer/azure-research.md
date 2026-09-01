@@ -41,12 +41,6 @@ The **Azure Portal** is a web-based management platform where users can create a
 * Managing user identities and access to business applications
 
 ## 📸 Screenshot Evidence
-<img width="912" height="610" alt="Screenshot 2026-09-01 215242" src="https://github.com/user-attachments/assets/a9f7dbce-8111-4cf9-b6a3-fa965cc668f3" />
-<img width="909" height="593" alt="Screenshot 2026-09-01 215256" src="https://github.com/user-attachments/assets/5c9470a5-214b-473b-9640-c0f0aed25cf1" />
-<img width="680" height="541" alt="Screenshot 2026-09-01 215447" src="https://github.com/user-attachments/assets/654d1616-8dac-4255-ae58-0d5e023b3004" />
-<img width="661" height="571" alt="Screenshot 2026-09-01 215606" src="https://github.com/user-attachments/assets/5f52d70b-80fb-444f-a7bc-6fe6a0cb0b6d" />
-<img width="453" height="437" alt="Screenshot 2026-09-01 215627" src="https://github.com/user-attachments/assets/0ec1bfc9-ce0d-4c1d-b261-1430e988d8c2" />
-<img width="683" height="533" alt="Screenshot 2026-09-01 215639" src="https://github.com/user-attachments/assets/7ecaadff-0094-4e48-a3e6-272c34cacbb7" />
-<img width="453" height="475" alt="Screenshot 2026-09-01 215705" src="https://github.com/user-attachments/assets/313fbc9d-a715-4232-8dde-d446563d140b" />
+<img width="1366" height="8863" alt="Cloud Computing Services _ Microsoft Azure" src="https://github.com/user-attachments/assets/ef8184ae-e202-4aec-b858-8773c54c4d64" />
 
 
