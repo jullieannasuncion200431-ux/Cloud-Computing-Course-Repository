@@ -1,1 +1,11 @@
+# Mission Reflection
 
+Sa laboratory activity na ito, mas naging malinaw sa akin kung paano nakatutulong ang containerization sa mas mabilis at mas convenient na deployment ng applications. Sa paggamit ng Docker, hindi na kailangang mag-install ng buong operating system tulad ng ginagawa sa Virtual Machine. Ang container ay gumagamit ng resources ng host system at maaaring magsimula sa loob lamang ng ilang segundo. Dahil dito, mas madaling mag-deploy at magpatakbo ng web applications nang hindi nangangailangan ng malaking amount of system resources.
+
+Natutuhan ko rin ang kahalagahan ng port mapping sa Docker. Sa command na `-p 8080:80`, ang port 8080 ng host computer ay konektado sa port 80 ng Nginx container. Dahil dito, maaari naming ma-access ang Nginx web server gamit ang `http://localhost:8080`. Kung walang port mapping, hindi madaling maa-access ng host machine ang service na tumatakbo sa loob ng container.
+
+Isa rin sa mga importanteng natutuhan ko ay ang difference between a container and the data stored inside it. Kapag ang isang container ay tinanggal gamit ang `docker rm`, mawawala rin ang data na naka-store lamang sa loob ng container. Para sa mga application na nangangailangan ng data na dapat manatili kahit ma-delete o ma-recreate ang container, maaaring gumamit ng Docker volumes. Ipinakita nito sa akin kung bakit mahalagang pag-isipan ang data storage kapag nagde-design ng containerized applications.
+
+Nakita ko rin kung paano nakatutulong ang Docker sa development process. Dahil maaaring ilagay sa container ang application kasama ang kinakailangan nitong dependencies at configuration, mas nagiging consistent ang environment sa iba't ibang computers. Nakakatulong ito upang mabawasan ang mga compatibility issues at mas mapadali ang collaboration ng developers at operations teams.
+
+Sa kabuuan, naging useful ang activity na ito dahil nagkaroon ako ng actual experience sa basic Docker commands at Nginx deployment. Nadagdagan ang understanding ko tungkol sa containers, port mapping, container lifecycle, at data persistence. Bukod dito, nadagdagan din ang laman ng aking GitHub portfolio at mas naging confident ako sa pag-document ng technical activities gamit ang Markdown.
