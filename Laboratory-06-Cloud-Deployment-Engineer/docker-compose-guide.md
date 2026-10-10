@@ -3,7 +3,7 @@
 ## 1. The `services:` Block
 The `services:` block defines the containers or services that make up an application. In this project, it defines two services: `database`, which uses the MariaDB 10.6 image, and `app`, which uses the Nextcloud image.
 
-The Compose File Used
+# The Compose File Used
 version: '3'
 services:
   database:
